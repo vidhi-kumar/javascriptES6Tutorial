@@ -10,4 +10,4 @@ const name = "Will";
 
 console.log(multiplyBy2);
 
-//so far we are in global execution call stack since we didn't invoke multiplyBy2
+//so far we are in global execution call stack since we didn't invoke multiplyBy2 function
